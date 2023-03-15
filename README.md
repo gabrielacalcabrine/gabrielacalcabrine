@@ -6,7 +6,7 @@
 
 - 🌱Programadora Junior dedicada com conhecimento em C#, .NET. Certificada com excelência pela empresa Raro Academy em .Net, sendo aluna destaque da turma. Estudante de psicologia na Universidade Federal da Bahia. 
 
-- 💻 Trabalho com back-end
+- 💻 Programadora back-end
 - 📘  Atualmente estudando C#, Java, SQL...
 - 📫 Contate-me no email : gabrielacalcabrine@gmai.com
 - 😄 Pronomes: ela/dela
