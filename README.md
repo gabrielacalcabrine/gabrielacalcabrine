@@ -4,7 +4,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 </div>
 
-- 🌱Programadora Junior dedicada com conhecimento em C#, .NET. Certificada com excelência pela empresa Raro Academy em .Net, sendo aluna destaque da turma. Estudante de psicologia na Universidade Federal da Bahia. 
+- 🌱Programadora dedicada com conhecimento em C#, .NET. Certificada com excelência pela empresa Raro Academy em .Net, sendo aluna destaque da turma. Estudante de psicologia na Universidade Federal da Bahia. 
 
 - 💻 Programadora back-end
 - 📘  Atualmente estudando C#, Java, SQL...
